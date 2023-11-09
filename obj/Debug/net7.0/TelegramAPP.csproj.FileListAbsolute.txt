@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\bin\Debug\net7.0\TelegramAPP.exe
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\bin\Debug\net7.0\TelegramAPP.deps.json
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\bin\Debug\net7.0\TelegramAPP.runtimeconfig.json
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\bin\Debug\net7.0\TelegramAPP.dll
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\bin\Debug\net7.0\TelegramAPP.pdb
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.dll
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\refint\TelegramAPP.dll
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.pdb
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\TelegramAPP.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\YGPSinavCalismasi\TelegramApp_Nesne\TelegramAPP\obj\Debug\net7.0\ref\TelegramAPP.dll
